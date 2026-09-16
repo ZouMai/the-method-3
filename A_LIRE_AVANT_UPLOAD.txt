@@ -1,0 +1,1 @@
+Dézippe ce dossier puis envoie tout le contenu dans ton dépôt GitHub. Laisse index.html à la racine.
